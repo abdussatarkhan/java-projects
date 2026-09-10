@@ -1,5 +1,6 @@
 # Java Object-Oriented Systems & Console Applications
 
+[![CI](https://github.com/abdussatarkhan/java-projects/actions/workflows/ci.yml/badge.svg)](https://github.com/abdussatarkhan/java-projects/actions)
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![OOP](https://img.shields.io/badge/Design-Clean_OOP-00599C?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
 
@@ -45,6 +46,16 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
 ```
+
+---
+
+## 🗺️ Roadmap & Upcoming Features
+
+- [x] Clean OOP architecture with design patterns
+- [x] Modular POS and banking console controllers
+- [ ] JavaFX modern desktop GUI interface
+- [ ] Multi-threaded concurrent transaction processing
+- [ ] SQLite JDBC database persistence
 
 ---
 
