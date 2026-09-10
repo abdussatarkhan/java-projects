@@ -1,7 +1,7 @@
 # Java Object-Oriented Systems & Console Applications
 
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![OOP](https://img.shields.io/badge/Design-Clean_OOP-00599C?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satarabdus692-bot)
+[![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
 
 > **A structured collection of core Java applications demonstrating clean OOP design principles, encapsulation, polymorphism, design patterns, file persistence, and modular POS / banking controllers.**
 
@@ -32,7 +32,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/satarabdus692-bot/java-projects.git
+git clone https://github.com/abdussatarkhan/java-projects.git
 cd java-projects
 ```
 
@@ -50,8 +50,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author & Profile
 
-Built and maintained by **Abdussatar** ([@satarabdus692-bot](https://github.com/satarabdus692-bot)).  
-For technical discussions, collaboration, or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdus-satar-5150813b5/) or [GitHub](https://github.com/satarabdus692-bot).
+Built and maintained by **Abdussatar** ([@abdussatarkhan](https://github.com/abdussatarkhan)).  
+For technical discussions, collaboration, or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdus-satar-5150813b5/) or [GitHub](https://github.com/abdussatarkhan).
 
 ---
 
