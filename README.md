@@ -1,5 +1,14 @@
 # Java Object-Oriented Systems & Console Applications
 
+<div align="center">
+
+[![Daily Streak](https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5-brightgreen?style=flat-square&logo=github)](https://github.com/abdussatarkhan)
+[![Master Portfolio](https://img.shields.io/badge/Portfolio-50%2B%20Enterprise%20Projects-0e75b6?style=flat-square&logo=github)](https://github.com/abdussatarkhan/abdussatarkhan)
+[![Author: Abdussatar](https://img.shields.io/badge/Author-Abdussatar-24292e?style=flat-square&logo=github)](https://github.com/abdussatarkhan)
+
+</div>
+
+
 [![CI](https://github.com/abdussatarkhan/java-projects/actions/workflows/ci.yml/badge.svg)](https://github.com/abdussatarkhan/java-projects/actions)
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) [![OOP](https://img.shields.io/badge/Design-Clean_OOP-00599C?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
@@ -69,3 +78,15 @@ For technical discussions, collaboration, or queries, feel free to reach out via
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the LICENSE file for details.
+
+
+---
+
+<div align="center">
+
+### 👨‍💻 Maintained by [Abdussatar (@abdussatarkhan)](https://github.com/abdussatarkhan)
+Part of the **[Master Enterprise Data Analytics & AI Portfolio](https://github.com/abdussatarkhan/abdussatarkhan)**.
+
+⭐ If you find this repository valuable, consider dropping a star! ⭐
+
+</div>
